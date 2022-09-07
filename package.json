@@ -1,0 +1,14 @@
+{
+  "name": "orgnic-server",
+  "version": "1.0.0",
+  "description": "orgnic-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "DatPH",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
